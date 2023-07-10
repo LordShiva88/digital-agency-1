@@ -1,0 +1,12 @@
+.parant{
+    width: 300px;
+    height: 250px;
+    background-color: green;
+    /* position: fixed; */
+    position: sticky;
+}
+.red{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
